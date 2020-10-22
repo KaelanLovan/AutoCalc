@@ -1,0 +1,10 @@
+E:\Hidden Genius Project\repos\CarCostCalculator_ns\CarCostCalculator\bin\Debug\CarCostCalculator.exe.config
+E:\Hidden Genius Project\repos\CarCostCalculator_ns\CarCostCalculator\bin\Debug\CarCostCalculator.exe
+E:\Hidden Genius Project\repos\CarCostCalculator_ns\CarCostCalculator\bin\Debug\CarCostCalculator.pdb
+E:\Hidden Genius Project\repos\CarCostCalculator_ns\CarCostCalculator\obj\Debug\CarCostCalculator.csprojAssemblyReference.cache
+E:\Hidden Genius Project\repos\CarCostCalculator_ns\CarCostCalculator\obj\Debug\CarCostCalculator.Form1.resources
+E:\Hidden Genius Project\repos\CarCostCalculator_ns\CarCostCalculator\obj\Debug\CarCostCalculator.Properties.Resources.resources
+E:\Hidden Genius Project\repos\CarCostCalculator_ns\CarCostCalculator\obj\Debug\CarCostCalculator.csproj.GenerateResource.cache
+E:\Hidden Genius Project\repos\CarCostCalculator_ns\CarCostCalculator\obj\Debug\CarCostCalculator.csproj.CoreCompileInputs.cache
+E:\Hidden Genius Project\repos\CarCostCalculator_ns\CarCostCalculator\obj\Debug\CarCostCalculator.exe
+E:\Hidden Genius Project\repos\CarCostCalculator_ns\CarCostCalculator\obj\Debug\CarCostCalculator.pdb
